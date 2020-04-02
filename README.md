@@ -1,11 +1,3 @@
 # FirstProj
 
-This is my first edit to this file
-
-yo what the hell 
-
-AAAAHHHHHH
-
-duhhhh
-
-HELLO change made by owner
+Hi there this is 1st change made by owner
